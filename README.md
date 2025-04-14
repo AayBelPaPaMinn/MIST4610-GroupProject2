@@ -6,7 +6,7 @@ Sarah Washburn
 
 Marshall Massey
 
-Aay Bel Minn
+Aay Bel Minn https://github.com/AayBelPaPaMinn?tab=repositories
 
 Nimay Patel https://github.com/NimayPatel?tab=repositories
 
